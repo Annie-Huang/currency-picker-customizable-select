@@ -1,0 +1,9 @@
+The New selectedcontent HTML Element Changes Selects Forever (https://www.youtube.com/watch?v=tNBufpGQihY)
+
+https://developer.chrome.com/blog/rfc-customizable-select
+https://codepen.io/collection/BNZjPe        << Full collection for Customizable Select
+
+https://codepen.io/una/pen/MWMmYxb
+https://github.com/Annie-Huang/currency-picker-customizable-select
+
+------------------------------------------------------------------------------
